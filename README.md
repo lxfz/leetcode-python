@@ -1,5 +1,7 @@
 # leetcode-python
-
+## dp
+### 线性DP
+### 区间DP
 ## backtrack
 
 ## pairs in array
